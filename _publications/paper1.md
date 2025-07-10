@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/paper1
 excerpt: ''
-date: 'forthcoming'
+date: ''
 venue: ''
 paperurl: ''
 citation: 'A. Oppenheimer, S. Mishra, M. Lercher, J.M. List  (forthcoming)'
