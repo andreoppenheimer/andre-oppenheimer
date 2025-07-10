@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/paper2
 excerpt: ''
-date: '0000-00-00'
+date: '2025-12-31'
 venue: ''
 paperurl: ''
 citation: 'A. Oppenheimer, K. Tang (forthcoming)'
