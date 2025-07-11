@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vowel Synthesizer for Phonetic Learning in Pure Data Vanilla"
+excerpt: "The synthesizer allows for formants (F1, F2) and pitch to be manipulated independently. The build includes a task where synthesized reference vowels need to be recreated by the user. This project was created in the context of the seminar 'Vocal Alchemy: Shaping Voices with Signal Processing' by Prof. Dr. Kevin Tang, Prof. Dr. Florin Esther and Dr. Carter Williams at HHU University Düsseldorf. - 2025 https://osf.io/renqu/"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+

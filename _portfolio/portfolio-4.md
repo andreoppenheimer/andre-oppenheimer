@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Streamerchat - 'Chat with your favorite streamer!'"
+excerpt: "A website built with Python, HTML and CSS via Flask that uses OPENAI-API to mimic a conversation with a desired streamer. This project was created in the context of the seminar 'Informatik für Nicht-Informatiker (Programmierprojekte)' by Dr. Carl Friedrich Bolz-Tereick at HHU University Düsseldorf. Users are able to select a streamer by typing their name. Furthermore they can download the conversation and upload it to continue where they left off. - 2025 https://github.com/andreoppenheimer/streamer_chatbot"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
