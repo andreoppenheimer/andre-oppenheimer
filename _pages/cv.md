@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. with a major in English and American Studies and a minor in Romance Studies, Heinrich Heine University, June 2025
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2020 - Dec 2023: Administrative Assistant at Städteregion Aachen
+  * General office work during the Covid-19 Pandemic and first year of the russo-ucrainian war
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Technical and Language Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming - Python, Matlab, CSS, Java, JavaScript, HTML, SQL, Markdown, R, Pure Data, Max/MSP, Scheme
+
+* Data Management - Git, Github, OSF.io, Codeberg
+
+* Data Collection - Qualtrics, Limesurvey
+
+* Document - LaTeX, Microsoft Office
+
+* OS - Linux, iOS, Windows
+
+* Cloud Computing - RunPod.io
+
+* Research Tools:
+  * Linguistics - Praat, BERT, BERTopic, SBERT, LDA, NMF, FL Studio, Audacity, Llama-4-Scout-17B-16E-Instruct, OPENAI API, Whisper ASR, NVIDIA Parakeet, Wav2vec, Festival TTS
+  * Bioinformatics - Mesquite, SplitsTree, DensiTree, FigTree, Tracer, BEAUTi, BEAST 2, Count, GLOOME, ALE, RANGER-DTL, AnGST
+
+* Languages:
+  * German - Native Speaker
+  * English - C2
+  * Spanish - C2
+  * Russian - A2
+  * French - C1
 
 Publications
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently working as a volunteer as part of the project “Enhancing Speech Technology and Resources on African American English,” in collaboration with the University of Florida

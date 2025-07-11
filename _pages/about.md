@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Andre Oppenheimer holds a Bachelor’s degree with a major in English and American Studies and a minor in Romance Studies. He completed his undergraduate studies at Heinrich Heine University (HHU) Düsseldorf in 2025. His research interests range from computational (historical) linguistics to bioinformatics and computer science.
+Andre Oppenheimer holds a Bachelor’s degree with a major in English and American Studies and a minor in Romance Studies. He completed his undergraduate studies at Heinrich Heine University (HHU) Düsseldorf in June of 2025. His research interests range from computational (historical) linguistics to bioinformatics and computer science.
 
 Since 2024, Andre has been working at the HHU SLAM Lab as a volunteer. As part of the project “Enhancing Speech Technology and Resources on African American English,” in collaboration with the University of Florida, his research—supervised by Prof. Dr. Kevin Tang—focuses on exploring topic modeling and sentiment analysis approaches for unstructured textual data.
 
